@@ -1,4 +1,4 @@
 # leetcode_train_python
 day1:Oct 24,2018 Algorithms_Two_Sum.py
 day2:Oct 25,2018 Algorithms_Reverse_Integer.py
-day3:Oct 29,2018Algorithms_Palindrome_Number.py
+day3:Oct 29,2018Algorithms_Palindrome_Number.py#回文：偶数长度可以只取一般，奇数长度可以去掉中间数
