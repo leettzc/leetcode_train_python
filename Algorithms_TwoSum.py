@@ -13,3 +13,4 @@ def twoSum( nums, target):
 					arr.append(i)
 					arr.append(j)
 					return arr
+	return('no solution')
