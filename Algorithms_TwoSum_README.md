@@ -6,3 +6,5 @@ day4:Oct 30,2018 Algorithms_longest_substring_without_repeating_characters.py#�
 day5:Oct 31，Algorithms_roman_to_integer.py##从最高单位开始遍历{统计listroman[i]的个数并求和，定位最后一个listroman[i]的位置，将所有listroman[i]替换为‘Q’，遍历最后一个listroman[i]前的字符{遍历listroman[i]后面的单位{统计listroman[i + 1 + n]的个数，减去listroman[i + 1 + n]的值，替换掉listroman[i]前面的j个listroman[i + 1 + n]}}删除listroman[i]及其前面的数}。
 day6:Nov 1，2018 Algorithms_integer_to_roman.py 将所有可能出现的13种罗马字符从大到小依次排列，用num依次除以罗马单位取整，并减去取得的单位。
 day7:Nov 2，2018 Algorithms_Median_of_Two_Sorted_Arrays.py 将两个list合成一个，分奇数、偶数两种情况讨论中位数。
+day8:Nov 5,2018 Algorithms_Zigzag_Conversion.py有待提高效率
+day9:Nov 7,2018 Algorithms_longest_palindromic_substring.py 分情况讨论
