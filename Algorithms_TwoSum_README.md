@@ -9,3 +9,5 @@ day7:Nov 2，2018 Algorithms_Median_of_Two_Sorted_Arrays.py 将两个list合成�
 day8:Nov 5,2018 Algorithms_Zigzag_Conversion.py有待提高效率
 day9:Nov 7,2018 Algorithms_longest_palindromic_substring.py 分情况讨论
 day10:Nov 8,2018 Algorithms_Container_With_Most_Water.py 从两边往中间走，小的就往中间走一步
+day11:Nov 9,2018 Algorithms_string_to_integer_atoi.py
+day12:Nov 12,2018 Algorithms_string_to_integer_atoi.py  超时
