@@ -9,9 +9,8 @@ day7:Nov 2，2018 Algorithms_Median_of_Two_Sorted_Arrays.py 将两个list合成�
 day8:Nov 5,2018 Algorithms_Zigzag_Conversion.py有待提高效率
 day9:Nov 7,2018 Algorithms_longest_palindromic_substring.py 分情况讨论
 day10:Nov 8,2018 Algorithms_Container_With_Most_Water.py 从两边往中间走，小的就往中间走一步
-day11:Nov 9,2018 Algorithms_string_to_integer_atoi.py
-day12:Nov 10,2018 Algorithms_longest_common_prefix.py
-day12:Nov 10,2018 Algorithms_3Sum.py 超时
-day13:Nov 12,2018 Algorithms_string_to_integer_atoi.py  
-day14:Nov 13,2018 Algorithms_3Sum_Closest    i=1:len-2,j,k 从两边往中间
-day15:Nov 14,2018 Algorithms_Letter_Combinations_of_a_Phone_Number.py  分情况组合，有待改善
+day11:Nov 9,2018 Algorithms_string_to_integer_atoi.py Input: "4193 with words"  Output: 4193
+day12:Nov 10,2018 Algorithms_longest_common_prefix.py 排序后直接判断第一个和最后一个
+day12:Nov 12,2018 Algorithms_3Sum.py 超时  
+day13:Nov 13,2018 Algorithms_3Sum_Closest    i=1:len-2,j,k 从两边往中间
+day114:Nov 14,2018 Algorithms_Letter_Combinations_of_a_Phone_Number.py  分情况组合，有待改善
