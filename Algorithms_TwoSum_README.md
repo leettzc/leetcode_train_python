@@ -10,5 +10,7 @@ day8:Nov 5,2018 Algorithms_Zigzag_Conversion.py有待提高效率
 day9:Nov 7,2018 Algorithms_longest_palindromic_substring.py 分情况讨论
 day10:Nov 8,2018 Algorithms_Container_With_Most_Water.py 从两边往中间走，小的就往中间走一步
 day11:Nov 9,2018 Algorithms_string_to_integer_atoi.py
-day12:Nov 10,Algorithms_longest_common_prefix.py
+day12:Nov 10,2018 Algorithms_longest_common_prefix.py
 day13:Nov 12,2018 Algorithms_string_to_integer_atoi.py  超时
+day14:Nov 15,2018 Algorithms_3Sum   i=1:len-2,j,k 从两边往中间
+day15:Nov 14,2018 Algorithms_Letter_Combinations_of_a_Phone_Number.py  分情况组合，有待改善
