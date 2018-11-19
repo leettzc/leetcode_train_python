@@ -13,4 +13,5 @@ day11:Nov 9,2018 Algorithms_string_to_integer_atoi.py Input: "4193 with words"  
 day12:Nov 10,2018 Algorithms_longest_common_prefix.py 排序后直接判断第一个和最后一个
 day12:Nov 12,2018 Algorithms_3Sum.py 超时  
 day13:Nov 13,2018 Algorithms_3Sum_Closest    i=1:len-2,j,k 从两边往中间
-day114:Nov 14,2018 Algorithms_Letter_Combinations_of_a_Phone_Number.py  分情况组合，有待改善
+day14:Nov 14,2018 Algorithms_Letter_Combinations_of_a_Phone_Number.py  分情况组合，有待改善
+day15:Nov 19,2018 Algorithms_remove_nth_node_from_end_of_list.py  链
