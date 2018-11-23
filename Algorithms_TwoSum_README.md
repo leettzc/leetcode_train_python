@@ -15,3 +15,5 @@ day12:Nov 12,2018 Algorithms_3Sum.py 超时
 day13:Nov 13,2018 Algorithms_3Sum_Closest    i=1:len-2,j,k 从两边往中间
 day14:Nov 14,2018 Algorithms_Letter_Combinations_of_a_Phone_Number.py  分情况组合，有待改善
 day15:Nov 19,2018 Algorithms_remove_nth_node_from_end_of_list.py  链
+day16:Nov 21,2018 Algorithms_valid_parentheses.py 括号匹配
+day17:Nov 22,2018 Algorithms_merge_two_sorted_lists.py 两个链表综合排序生成新链表
